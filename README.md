@@ -1,2 +1,2 @@
-# AWS_Academy_Solution_Architect
+# AWS_Academy_Solutions_Architect
 AWS Academy 
